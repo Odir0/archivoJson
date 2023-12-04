@@ -1,0 +1,39 @@
+{
+  "plantas": [
+    {
+      "nombre": "Pittosporum Verde",
+      "precio": "₡1 300",
+      "link": "./Imagenes/pittosporumVerde.jpeg"
+    },
+    {
+      "nombre": "Pittosporum Matizado",
+      "precio": "₡1 300",
+      "link": "./Imagenes/pittosporumMatizado.jpeg"
+    },
+    {
+      "nombre": "Mano Tigre M",
+      "precio": "₡2 500",
+      "link": "./Imagenes/ManoTigre.jpeg"
+    },
+    {
+      "nombre": "Hiedra",
+      "precio": "₡1 300",
+      "link": "./Imagenes/Hiedra.jpeg"
+    },
+    {
+      "nombre": "Jamaica",
+      "precio": "₡1 000",
+      "link": "./Imagenes/jamaica.jpeg"
+    },
+    {
+      "nombre": "Limonsillo",
+      "precio": "₡1 500",
+      "link": "./Imagenes/limonsillo.jpeg"
+    },
+    {
+      "nombre": "Pampagrass",
+      "precio": "₡1 000",
+      "link": "./Imagenes/pampaGrass.jpeg"
+    }
+  ]
+}
